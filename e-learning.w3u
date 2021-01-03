@@ -1,0 +1,1162 @@
+{
+		"name": "E-Learning",
+		"author": "m3u",
+		"image":"https://i.postimg.cc/R0Vb75sT/image.png",
+		"url": "http://junctv.tk/e-learningv.w3u",
+		
+
+		"stations":[
+                    {
+                            "name": "CH3 HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/01/ch3hd.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/ch3-hd/",
+			    "referer": "https://player.we-play.tv"
+			    
+                    },
+		    
+		    {
+                            "name": "CH5 HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/01/ch5.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/ch5-hd/",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "CH7 HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/01/ch7hd.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/ch7-hd/",
+			     "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "MCOT HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/01/mcothd.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/mcot-hd/",
+			    "referer": "https://player.we-play.tv"
+			    
+                    },
+
+		    {
+                            "name": "PPTV HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/01/pptv.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/pptv-hd/",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "Thairath TV",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/06/thairathtv.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/
+
+%e0%b9%84%e0%b8%97%e0%b8%a2%e0%b8%a3%e0%b8%b1%e0%b8%90/
+",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "ONE31 HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/05/one31.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/one-hd/",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "Amarin TV HD",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/10/amarintv.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/amarin-tv/",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "TPBS",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/06/thaipbs.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/thai-pbs/",
+			     "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "NBT",
+                            "image": "https://images.ufoiptv.com/channels/sd-nbt.jpg",
+                            "url": "https://doomovie.com/live/nbt",
+			     "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "Nationtv",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/06/nationtv.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/nationtv/",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "Workpointtv",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/10/workpointtv.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/workpoint/",
+			    "referer": "https://player.we-play.tv"
+                    },
+
+		    {
+                            "name": "GMM25",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/10/gmm25.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/gmm25/",
+			    "referer": "https://player.we-play.tv"
+			    
+                    },
+
+		    {
+                            "name": "Mono29.",
+                            "image": "https://www.we-play.tv/wp-content/uploads/2019/01/mono29.jpg",
+                            "url": "https://www.we-play.tv/videos/digital-tv/mono29/",
+			    "referer": "https://player.we-play.tv"
+                    },
+		    {
+                            "name": "CH8",
+                            "image": "https://images.ufoiptv.com/channels/ch8hd.jpg",
+                            "url": "https://doomovie.com/live/%e0%b8%8a%e0%b9%88%e0%b8%ad
+
+%e0%b8%87-8",
+			    "referer": "" 
+	            },
+		    {
+                            "name": "New TV",
+                            "image": "https://images.ufoiptv.com/channels/sd-new.jpg",
+                            "url": "https://tv.trueid.net/embed/newtv?autoplay=yes&nopageview=yes",
+			    "referer": "https://dooballz.com/"
+	            },
+		    {
+                            "name": "Workpoint ",
+                            "image": "https://images.ufoiptv.com/channels/hd-workpoint.jpg",
+                            "url": "https://cdn1.ufalive.center/app/workpoint/playlist.m3u8",
+			    "referer": "https://dooballz.com/"
+	            },
+		    {
+                            "name": "Mono29",
+                            "image": "https://images.ufoiptv.com/channels/hd-mono.jpg",
+                            "url": "https://cdn1.ufalive.center/app/mono29/playlist.m3u8",
+			    "referer": "https://dooballz.com/"
+	            },
+		    {
+                            "name": "Trueplookpanya",
+                            "image": "https://images.ufoiptv.com/channels/sd-tppy.jpg",
+                            "url": "http://sodaza.tk/freetv/true.php?ch=trueplookpanya" 
+	            },
+		    {
+                            "name": "TNN 16",
+                            "image": "https://images.ufoiptv.com/channels/sd-tnn24.jpg",
+                            "url": "http://sodaza.tk/freetv/true.php?ch=tnn",
+			    "referer": "" 
+                    },
+		    {
+                            "name": "History HD",
+                            "image": "https://images.ufoiptv.com/channels/hd-history.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=history&cate=documentary",
+		            "referer": "https://player.we-play.tv" 
+	            },
+		    {
+                            "name": "H2",
+                            "image": "https://images.ufoiptv.com/channels/hd-history2.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=h2&cate=documentary",
+			    "referer": "https://player.we-play.tv" 
+	            },
+		    {
+			    "name": "Discovery Asia",
+                            "image": "https://images.ufoiptv.com/channels/hd-discovery.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=disasia&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Discovery Channel",
+                            "image": "https://images.ufoiptv.com/channels/sd-discovery.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=discovery&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Animal Planet",
+                            "image": "https://images.ufoiptv.com/channels/sd-animalplanet.jpg",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=animalplanet&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "National Geographic",
+                            "image": "https://images.ufoiptv.com/channels/hd-natgeo.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=natgeo&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Nat Geo Wild",
+                            "image": "https://images.ufoiptv.com/channels/hd-natgeowild.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=natwild&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Samrujlok",
+                            "image": "https://images.ufoiptv.com/channels/hd-samrujlok.jpg",
+                            "url": "http://27.254.149.109:8081/tumlive/SamRujRok.stream/playlist.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "BBC Earth",
+                            "image": "https://images.ufoiptv.com/channels/hd-bbcearth.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=bbc-earth&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "BBC Lifestyle",
+                            "image": "https://images.ufoiptv.com/channels/hd-bbclifestyle.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=bbc-
+
+lifestyle&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "lovenature4k"
+                            "image": "https://i.imgur.com/XWDSCI7.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=lovenature&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "TRUE EXPLORE WILD",
+                            "image": "https://images.ufoiptv.com/channels/sd-expwild.jpg",
+                            "url": "https://www.streaming.livescorethai.net/iptv/sd-
+
+expwild.stream/playlist.m3u8",
+		            "referer": "https://freetvdd.com/"
+                    },
+		    {
+			    "name": "TRUE EXPLORE LIFE",
+                            "image": "https://images.ufoiptv.com/channels/sd-explife.jpg",
+                            "url": "https://www.streaming.livescorethai.net/iptv/sd-
+
+explife.stream/playlist.m3u8",
+		            "referer": "https://freetvdd.com/"
+                    },
+		    {
+			    "name": "TRUE EXPLORE SCI",
+                            "image": "https://images.ufoiptv.com/channels/sd-expsci.jpg",
+                            "url": "https://www.streaming.livescorethai.net/iptv/sd-
+
+expsci.stream/playlist.m3u8",
+		            "referer": "https://freetvdd.com/"
+                    },
+		    {
+			    "name": "SangJan TV",
+                            "image": "https://i.imgur.com/CsU6zV4.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=60254",
+		            "referer": ""
+		    },
+		    {
+			    "name": "ThinTai",
+                            "image": "https://i.imgur.com/JPEEKVj.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=61235",
+		            "referer": ""
+                    },
+		    {
+			    "name": "World Animal",
+                            "image": "https://i.imgur.com/1QE2zm2.png",
+                            "url": "http://203.154.243.89:1201",
+		            "referer": ""
+                    },
+		    {
+			    "name": "PSI",
+                            "image": "https://i.imgur.com/c6Hl1yV.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=9039",
+		            "referer": ""
+                    },
+		    {
+			    "name": "HBO",
+                            "image": "https://images.ufoiptv.com/channels/hd-hbo.jpg",
+                            "url": "https://www.we-play.tv/videos/tv-entertainment/hbo-hd/",
+		            "referer": ""
+                    },
+		    {
+			    "name": "HBO Hits",
+                            "image": "https://images.ufoiptv.com/channels//hd-hbohits.jpg",
+                            "url": "https://www.we-play.tv/videos/tv-entertainment/hbo-hit/",
+		            "referer": ""
+                    },
+		    {
+			    "name": "HBO Signature",
+                            "image": "https://images.ufoiptv.com/channels/hd-hbosignature.jpg",
+                            "url": "https://www.we-play.tv/videos/tv-entertainment/hbo-signature/",
+		            "referer": ""
+                    },
+		    {
+			    "name": "HBO Family",
+                            "image": "https://images.ufoiptv.com/channels/hd-hbofamily.jpg",
+                            "url": "https://www.we-play.tv/videos/tv-entertainment/hbo-family/",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Cinemax",
+                            "image": "https://images.ufoiptv.com/channels/hd-cinemax.jpg",
+                            "url": "https://www.we-play.tv/videos/tv-entertainment/cinemax/",
+		            "referer": ""
+                    },
+		    {
+			    "name": "RED by HBO",
+                            "image": "https://images.ufoiptv.com/channels/hd-screenred.jpg",
+                            "url": "https://www.we-play.tv/videos/tv-entertainment/red-by-hbo/",
+		            "referer": ""
+                    },
+		    {
+			    "name": "FOX Movies",
+                            "image": "https://i.imgur.com/w7NmyEI.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox-
+
+movies&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Fox Action Movies",
+                            "image": "https://i.imgur.com/JZdQ3JX.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox-
+
+action&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Fox Family Movies",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/UnFCrgcOuyQ3JoXKMSzpaTscsKX3tWsydPiDV7Mu.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox-fam&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "FOX Thai",
+                            "image": "https://images.ufoiptv.com/channels/sd-fox.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=foxth&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "FOX CRIME",
+                            "image": "https://i.imgur.com/Ibhb6et.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox-crime&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Fox Life",
+                            "image": "https://i.imgur.com/TV3EfL9.png",
+                            "url": "https://player.we-play.tv/channel.php?name=fox-life&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Paramount Channel",
+                            "image": "https://i.imgur.com/TrVKYXp.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=paramount&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Warner TV",
+                            "image": "https://images.ufoiptv.com/channels/hd-warnertv.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=warner&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "AXN HD",
+                            "image": "https://images.ufoiptv.com/channels/hd-axn.jpg",
+                            "url": "https://player.we-play.tv/channel.php?name=axn&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Hits",
+                            "image": "https://i.imgur.com/Qul0FqJ.png",
+                            "url": "https://player.we-play.tv/channel.php?name=hits&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "HITS Movies",
+                            "image": "https://i.imgur.com/S3kKDv8.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=hitsmovies&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Film HD",
+                            "image": "https://i.imgur.com/sjb3sQy.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=truefilmhd&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Film HD 2",
+                            "image": "https://i.imgur.com/9mOrPs1.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=truefilmhd2&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "CCM",
+                            "image": "https://i.imgur.com/Y0P3nUD.png",
+                            "url": "https://player.we-play.tv/channel.php?name=ccm&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Star Chinese Movies",
+                            "image": "https://i.imgur.com/jRkxJ7t.png",
+                            "url": "https://player.we-play.tv/channel.php?name=scm&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Thai Film",
+                            "image": "https://i.imgur.com/KRTl7ER.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=truethaifilm&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Asian Series HD",
+                            "image": "https://i.imgur.com/FsT1Yxp.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=trueasianhd&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "KBS World",
+                            "image": "https://i.imgur.com/5cqIm1Q.png",
+                            "url": "https://player.we-play.tv/channel.php?name=kbs&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "tvN",
+                            "image": "https://i.imgur.com/fUSOtKO.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tvn&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Hi-Def 1",
+                            "image": "https://i.imgur.com/pYlyuMQ.png",
+                            "url": "https://player.we-play.tv/channel.php?name=hi-def1&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "FWMOV",
+                            "image": "https://i.imgur.com/BvY9tl2.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=89782",
+		            "referer": ""
+                    },
+		    {
+			    "name": "FWSOV",
+                            "image": "https://i.imgur.com/bYGohUG.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=89781",
+		            "referer": ""
+                    },
+		    {
+			    "name": "FWTOON",
+                            "image": "https://i.imgur.com/eQHvpkV.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=89780",
+		            "referer": ""
+                    },
+		    {
+			    "name": "SAMMUANG",
+                            "image": "https://i.imgur.com/rlq6P50.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=60257",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Series+HD",
+                            "image": "https://i.imgur.com/MIKKM2Y.png",
+                            "url": "http://27.254.149.109:8081/tumlive/ipmaser.stream/chunks.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Live SKY1",
+                            "image": "https://i.imgur.com/qDcOkZR.png",
+                            "url": "http://27.254.149.109:8081/tumlive/ipmskyworldhd1.stream/playlist.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Live SKY2",
+                            "image": "https://i.imgur.com/jL3vhXm.png",
+                            "url": "http://27.254.149.109:8081/tumlive/ipmskyworldhd2.stream/chunks.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Live SKY3",
+                            "image": "https://i.imgur.com/ezjnOT1.png",
+                            "url": "http://27.254.149.109:8081/tumlive/ipmskyworldhd3.stream/chunks.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Live SKY4",
+                            "image": "https://i.imgur.com/0DB0pQG.png",
+                            "url": "http://27.254.149.109:8081/tumlive/ipmskyworldhd4.stream/chunks.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "IZaaHd",
+                            "image": "https://i.imgur.com/2joQPIk.png",
+                            "url": "http://203.154.243.89:1202",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Movie HD1",
+                            "image": "https://i.imgur.com/yz6jzjz.png",
+                            "url": "http://203.154.243.89:1423",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Movie HD2",
+                            "image": "https://i.imgur.com/yz6jzjz.png",
+                            "url": "http://27.254.149.109:8081/tumlive/GG01/chunks.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "BLUEANT ENTERTAINMENT",
+                            "image": "https://i.imgur.com/S6pcUMa.png",
+                            "url": "https://player.we-play.tv/channel.php?name=blue-ent&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "BLUEANT EXTREME",
+                            "image": "https://i.imgur.com/QHTy31a.png",
+                            "url": "https://player.we-play.tv/channel.php?name=blue-ext&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True X-ZYTE",
+                            "image": "https://i.imgur.com/C4zXAY5.png",
+                            "url": "https://player.we-play.tv/channel.php?name=xzyte&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "GEM",
+                            "image": "https://i.imgur.com/FGSI3Wb.png",
+                            "url": "https://player.we-play.tv/channel.php?name=gem&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Waku Waku Japan",
+                            "image": "https://i.imgur.com/E7gZ2Bg.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=wakuwakujapan&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Food Network",
+                            "image": "https://i.imgur.com/cVIRE47.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=foodnetwork&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Asian Food Channel",
+                            "image": "https://i.imgur.com/42vMj80.png",
+                            "url": "https://player.we-play.tv/channel.php?name=afn&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "TLC HD",
+                            "image": "https://i.imgur.com/kidxvcW.png",
+                            "url": "https://player.we-play.tv/channel.php?name=tlc&cate=documentary",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Music HD",
+                            "image": "https://i.imgur.com/lZ94hGi.png",
+                            "url": "https://player.we-play.tv/channel.php?
+
+name=truemusic&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "MTV LIVE HD",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/X42DhtwlyGtkbvFXG6YXlBmo0OXbXjUngkRoMxgC.png",
+                            "url": "https://player.we-play.tv/channel.php?name=mtv-live&cate=entertainment",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "ThaiThai",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/0fOZOKWgUnuhwZqZbTD0gX3giN8qXydJoSwA4ml5.png",
+                            "url": "https://doomovielive.b-cdn.net/sd-thaithai_480/index.m3u8",
+		            "referer": "https://doomovie.com/"
+                    },
+		    {
+			    "name": "Sabaidee TV",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/EXxpOqC7KM0oidaTRNScl0SH4P1ooINLIU70fmeZ.png",
+                            "url": "https://doomovielive.b-cdn.net/sd-sabaidee_480/index.m3u8",
+		            "referer": "https://doomovie.com/"
+                    },
+		    {
+			    "name": "Cartoon Network",
+                            "image": "https://i.imgur.com/o8GjDKm.png",
+                            "url": "https://player.we-play.tv/channel.php?name=cnhd&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Disney XD",
+                            "image": "https://i.imgur.com/wpLi3Jj.png",
+                            "url": "https://player.we-play.tv/channel.php?name=disneyxd&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Spark Jump",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/JVDtH8vKrYbGxaIVgJqrEZOnGZiob7oKd8Cq93hH.png",
+                            "url": "https://player.we-play.tv/channel.php?name=sparkjump&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "True Spark Play",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/KYjhTXfQVcTxrpn6weGXZcW214kCFPKbQvrqimcU.png",
+                            "url": "http://new.iamntp.com/2idtv/P83vkq1M1Lp/playlist.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Animax",
+                            "image": "https://i.imgur.com/IMGHQpQ.png",
+                            "url": "https://player.we-play.tv/channel.php?name=animax&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Aniplus",
+                            "image": "https://i.imgur.com/oupwxDO.png",
+                            "url": "https://player.we-play.tv/channel.php?name=aniplus&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Nickelodeon",
+                            "image": "https://i.imgur.com/ZLHYm0a.png",
+                            "url": "https://player.we-play.tv/channel.php?name=nickelodeon&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "Cartoon Club",
+                            "image": "https://i.imgur.com/4pNaNWx.png",
+                            "url": "https://player.we-play.tv/channel.php?name=cartoon-club&cate=kids",
+		            "referer": "https://player.we-play.tv"
+                    },
+		    {
+			    "name": "GanG-Cartoon",
+                            "image": "https://i.imgur.com/3r9koEo.png",
+                            "url": "http://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_1000.m3u8",
+		            "referer": ""
+                    },
+		    {
+			    "name": "Boomerang",
+                            "image": "https://i.imgur.com/ww9mmBt.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=709",
+		            "referer": ""
+                    },
+		    {
+			    "name": "TOONEE",
+                            "image": "https://i.imgur.com/FYm21yD.png",
+                            "url": "https://www.fwiptv.cc/player_demo.php?channel=506",
+		            "referer": ""
+                    },
+		    {
+			    "name": "CNN",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/82myrjsvZjt2tIQ5QqDDkTEYGJuRKSJ2lSj5hGWW.png",
+                            "url": "https://doomovielive.b-cdn.net/uk-cnn_480/index.m3u8",
+		            "referer": "https://doomovie.com/"
+                    },
+		    {
+			    "name": "Aljazeera",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/LGqpIOjGrx4GXQE4tHM2O9yC2vWEEZucCVG15Axz.png
+
+",
+                            "url": "https://doomovielive.b-cdn.net/sd-aljazeera_480/index.m3u8",
+		            "referer": "https://doomovie.com/"
+                    },
+		    {
+			    "name": "Sky News",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/QAGePcypptJEZWHRhjZUw8iIM43XF9KoCLz5tg3R.png",
+                            "url": "https://doomovielive.b-cdn.net/uk-skynews_480/index.m3u8",
+		            "referer": "https://doomovie.com/"
+                    },
+		    {
+			    "name": "NHK World",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/K1nk269CE9aAa7DunT5qBeIrV3WJymveVvlQC8T7.png",
+                            "url": "https://player.we-play.tv/channel.php?name=nhk&cate=news",
+		            "referer": "https://player.we-play.tv/"
+                    },
+		    {
+			    "name": "ID Station",
+                            "image": "https://i.imgur.com/yrBqc9U.png",
+                            "url": "https://cdn.hd4ball.com/ufabet/id.php?lang=th&channel=laZq2GQdnG5R";
+			    "referer": "https://youdooball.com/",
+			    "embed":"true"
+                    },
+		    {
+			    "name": "Premier Football HD 1",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/tcFjtuFGMEJnFpRzhKRdGWy3OXORgeZrPO6js01Z.png",
+                            "url": "https://player.ballnaka.tv/?channel=tpf1&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "Premier Football HD 2",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/caDu5bH8oCfnbQ1wehx0cjY4H72UdJ933Xgvhnhu.png",
+                            "url": "https://player.ballnaka.tv/?channel=tpf2&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "Premier Football HD 3",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/8JZPsfdSZUVEBr6s8ozWXBMwcM8FbBmB6CZQ7Qv8.p
+
+ng",
+                            "url": "https://player.ballnaka.tv/?channel=tpf3&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "Premier Football HD 4",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/4FA2Hn6saxyPGUQaUcnIQBVf3tjsJslWONShGlRw.png",
+                            "url": "https://player.ballnaka.tv/?channel=tpf4&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "Premier Football HD 5",
+                            "image": 
+
+"https://www.doofree88.com/storage/live/qWkXJbEdataqS2ddVuLtupbKyCkUSDadJnbblqXU.png",
+                            "url": "https://player.ballnaka.tv/?channel=tpf5&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "True Sport HD",
+                            "image": "https://i.imgur.com/NfkuSSz.png",
+                            "url": "https://player.ballnaka.tv/?channel=thd1&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "True Sport HD 2",
+                            "image": "https://i.imgur.com/K7ZR2Tv.png",
+                            "url": "https://player.ballnaka.tv/?channel=thd2&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "True Sport HD 3",
+                            "image": "https://i.imgur.com/nuz4QSl.png",
+                            "url": "https://player.ballnaka.tv/?channel=thd3&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "True Tennis",
+                            "image": "https://i.imgur.com/q8lgfwd.png",
+                            "url": "https://player.ballnaka.tv/?channel=tennis&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "NBA TV",
+                            "image": "https://i.imgur.com/2uDVEgy.png",
+                            "url": "https://player.ballnaka.tv/?channel=nba&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "Golf Channel",
+                            "image": "https://i.imgur.com/Js8zTDy.png",
+                            "url": "https://player.ballnaka.tv/?channel=golf&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "MOTOR VISION",
+                            "image": "https://i.imgur.com/6gtdhmN.png",
+                            "url": "https://player.ballnaka.tv/?channel=motor-vision&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "NFL NETWORK",
+                            "image": "https://i.imgur.com/iFphmoC.png",
+                            "url": "https://player.ballnaka.tv/?channel=nfl&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "beIN Sport1",
+                            "image": "https://i.imgur.com/PxNN4J9.png",
+                            "url": "https://player.ballnaka.tv/?channel=bein1&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "beIN Sport2",
+                            "image": "https://i.imgur.com/jMseUW1.png",
+                            "url": "https://player.ballnaka.tv/?channel=bein2&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "FOX SPORTS HD",
+                            "image": "https://i.imgur.com/8XcXaof.png",
+                            "url": "https://player.ballnaka.tv/?channel=fox1&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "FOX SPORTS 2",
+                            "image": "https://i.imgur.com/gfBvo1Z.png",
+                            "url": "https://player.ballnaka.tv/?channel=fox2&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "FOX SPORTS 3",
+                            "image": "https://i.imgur.com/NqEEbOT.png",
+                            "url": "https://player.ballnaka.tv/?channel=fox3&cate=sport",
+		            "referer": "https://player.ballnaka.tv"
+                    },
+		    {
+			    "name": "True Sport 2",
+                            "image": "https://i.imgur.com/f5FdK5N.png",
+                            "url": "https://player.ballnaka.tv/?channel=tsp2&cate=sport";
+			    "referer": "https://player.ballnaka.tv",
+			    "embed": ""
+                    },
+		    {
+			    "name": "True Sport 5",
+                            "image": "https://i.imgur.com/11kfFNT.png",
+                            "url": "https://player.ballnaka.tv/?channel=tsp5&cate=sport";
+			    "referer": "https://player.ballnaka.tv",
+			    "embed": ""
+                    },
+		    {
+			    "name": "True Sport 6",
+                            "image": "https://i.imgur.com/g0F4y4V.png",
+                            "url": "https://player.ballnaka.tv/?channel=tsp6&cate=sport";
+			    "referer": "https://player.ballnaka.tv",
+			    "embed": ""
+                    },
+		    {
+			    "name": "True Sport 7",
+                            "image": "https://i.imgur.com/TDzxIsE.png",
+                            "url": "https://player.ballnaka.tv/?channel=tsp7&cate=sport";
+			    "referer": "https://player.ballnaka.tv",
+			    "embed": ""
+                    },
+		    {
+			"name": "BT SPORT 1",
+			"image": "https://i.imgur.com/zUepy7u.png",
+			"url": "https://player.ballnaka.tv/?channel=btsport1&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "BT SPORT 2",
+			"image": "https://i.imgur.com/Bj8pnje.png",
+			"url": "https://player.ballnaka.tv/?channel=btsport2&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "BT SPORT 3",
+			"image": "https://i.imgur.com/Svt1tht.png",
+			"url": "https://player.ballnaka.tv/?channel=btsport3&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Arena Sport1",
+			"image": "https://i.imgur.com/xllDHdr.png",
+			"url": "https://player.ballnaka.tv/?channel=arenasport1&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Arena Sport2",
+			"image": "https://i.imgur.com/6yetAgw.png",
+			"url": "https://player.ballnaka.tv/?channel=arenasport2&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Arena Sport3",
+			"image": "https://i.imgur.com/Lqqjmkd.png",
+			"url": "https://player.ballnaka.tv/?channel=arenasport3&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Arena Sport4",
+			"image": "https://i.imgur.com/EvZQW6B.png",
+			"url": "https://player.ballnaka.tv/?channel=arenasport4&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Eurosport",
+			"image": "https://i.imgur.com/CT21NkB.png",
+			"url": "https://player.ballnaka.tv/?channel=ais-eurosport&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sport tv1",
+			"image": "https://i.imgur.com/9cRvr78.png",
+			"url": "https://player.ballnaka.tv/?channel=sporttv1&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sport tv2",
+			"image": "https://i.imgur.com/2U3uISL.png",
+			"url": "https://player.ballnaka.tv/?channel=sporttv2&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sport tv3",
+			"image": "https://i.imgur.com/ZqUTSNS.png",
+			"url": "https://player.ballnaka.tv/?channel=sporttv3&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sport tv4",
+			"image": "https://i.imgur.com/1XS8Htt.png",
+			"url": "https://player.ballnaka.tv/?channel=sporttv4&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Digisport 1",
+			"image": "https://i.imgur.com/mIr3Aho.png",
+			"url": "https://player.ballnaka.tv/?channel=digisport1&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Digisport 2",
+			"image": "https://i.imgur.com/R0x86bJ.png",
+			"url": "https://player.ballnaka.tv/?channel=digisport2&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Digisport 3",
+			"image": "https://i.imgur.com/hDEgxnL.png",
+			"url": "https://player.ballnaka.tv/?channel=digisport3&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Digisport 4",
+			"image": "https://i.imgur.com/l0SHReb.png",
+			"url": "https://player.ballnaka.tv/?channel=digisport4&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sportklub 1",
+			"image": "https://i.imgur.com/SKsjmTQ.png",
+			"url": "https://player.ballnaka.tv/?
+
+channel=sportklub1slovenia&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sportklub 2",
+			"image": "https://i.imgur.com/PapDlsc.png",
+			"url": "https://player.ballnaka.tv/?
+
+channel=sportklub2slovenia&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sportklub 3",
+			"image": "https://i.imgur.com/PGB3MRj.png",
+			"url": "https://player.ballnaka.tv/?
+
+channel=sportklub3slovenia&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sportklub 4",
+			"image": "https://i.imgur.com/RAcX7FL.png",
+			"url": "https://player.ballnaka.tv/?
+
+channel=sportklub4slovenia&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Fox sports1 nl",
+			"image": "https://i.imgur.com/fmont7P.png",
+			"url": "https://player.ballnaka.tv/?channel=foxsports1nl&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Fox sports2 nl",
+			"image": "https://i.imgur.com/XKMTyta.png",
+			"url": "https://player.ballnaka.tv/?channel=foxsports2nl&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Fox sports3 nl",
+			"image": "https://i.imgur.com/22yvlvN.png",
+			"url": "https://player.ballnaka.tv/?channel=foxsports3nl&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Fox sports4 nl",
+			"image": "https://i.imgur.com/obJZskL.png",
+			"url": "https://player.ballnaka.tv/?channel=foxsports4nl&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "beInSport1 FR",
+			"image": "https://i.imgur.com/pq4SxbC.png",
+			"url": "https://player.ballnaka.tv/?channel=beinsport1fr&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "beInSport2 FR",
+			"image": "https://i.imgur.com/5o5LP8q.png",
+			"url": "https://player.ballnaka.tv/?channel=beinsport2fr&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Supersport1al",
+			"image": "https://i.imgur.com/IbUQIzZ.png",
+			"url": "https://player.ballnaka.tv/?channel=supersport1al&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Supersport2al",
+			"image": "https://i.imgur.com/P4EDlaf.png",
+			"url": "https://player.ballnaka.tv/?channel=supersport2al&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "TV3 sport1",
+			"image": "https://i.imgur.com/0622b8e.png",
+			"url": "https://player.ballnaka.tv/?channel=tv3sport1&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sport TV",
+			"image": "https://i.imgur.com/POzBOfh.png",
+			"url": "https://player.ballnaka.tv/?channel=sportv&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Sport Digital",
+			"image": "https://i.imgur.com/GANQHi5.png",
+			"url": "https://player.ballnaka.tv/?channel=sportdigital&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Ziggosport Voetbal",
+			"image": "https://i.imgur.com/kLY1YZZ.png",
+			"url": "https://player.ballnaka.tv/?
+
+channel=ziggosportvoetbal&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Ziggosport Select",
+			"image": "https://i.imgur.com/cEwZdhM.png",
+			"url": "https://player.ballnaka.tv/?
+
+channel=ziggosportselect&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Cmore football",
+			"image": "https://i.imgur.com/t3ufM2f.png",
+			"url": "https://player.ballnaka.tv/?channel=cmorefootball&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    
+		    {
+			"name": "PFC",
+			"image": "https://i.imgur.com/utLW3ps.png",
+			"url": "https://player.ballnaka.tv/?channel=pfc&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "TV3MAX",
+			"image": "https://i.imgur.com/wpS6uop.png",
+			"url": "https://player.ballnaka.tv/?channel=tv3max&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "GOL",
+			"image": "https://i.imgur.com/nq31cOq.png",
+			"url": "https://player.ballnaka.tv/?channel=gol&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "ESPN",
+			"image": "https://i.imgur.com/0miGnY2.png",
+			"url": "https://player.ballnaka.tv/?channel=espnus&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "Diema sport1",
+			"image": "https://i.imgur.com/LggtyMT.png",
+			"url": "https://player.ballnaka.tv/?channel=diemasport1&cate=sport";
+			"referer": "https://player.ballnaka.tv",
+			"playInNatPlayer": ""
+                    },
+		    {
+			"name": "beinsportlaliga",
+			"image": "https://i.imgur.com/YlHe4h6.png",
+			"url": "https://www.ballsoi8.com/live/?ch=beinsportlaliga";
+			"referer": "https://www.ballsoi8.com/allchannel/",
+			"playInNatPlayer": ""
+                    }
+
+
+		    ]
+			
+
+	    
+
+
+
+
+
+} 
