@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1,Hit 95.5
+https://wzedge1.becteroradio.com/Hitz/Hitz-Listen-Med/playlist.m3u8
+
+#EXTINF:-1,Cool Fahrenheit
+https://coolism-web.cdn.byteark.com/;stream/1
+
+#EXTINF:-1,Green Wave
+https://atimeonline.smartclick.co.th/green
+
+#EXTINF:-1,Chill Online
+https://real3.atimemedia.com/live/chill.sdp/playlist.m3u8
+
+#EXTINF:-1,EFM
+https://atimeonline.smartclick.co.th/efm
+
+#EXTINF:-1,Easy FM
+https://wzedge1.becteroradio.com/Eazy/Eazy-Listen-Med/playlist.m3u8
+
+#EXTINF:-1,Great 93 FM
+https://a.hostpleng.cloud/8000/stream
+
+#EXTINF:-1,Sunshine Radio
+http://c1.hostpleng.cloud:8046/live
+
+#EXTINF:-1,Star FM
+https://wzedge1.becteroradio.com/Star/Star-Listen-Med/playlist.m3u8
