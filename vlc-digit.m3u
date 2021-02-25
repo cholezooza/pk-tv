@@ -30,9 +30,9 @@ http://27.254.130.61/live01/ch8.m3u8?p=st
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/y8NymKJ1/tnn.png", TNN24
 http://27.254.130.61/live01/ch5.m3u8?p=st
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/VNx9PbKv/1sg0301mhv8kwwgoc.png", TRUE4U
-https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tvdigital_newtv_480p/playlist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/VLgF0vkZ/v7pfr4jtccgw4s4c8g.png", NEW18
-https://cdn161.cloud-streaming.com/ilike4kin_x6/new18_720p/playlist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tvdigital_newtv_480p/playlist.m3u8
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/Y21RkbKH/upbw6u3iwaskgckkow.png",MONO29
 #https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 http://27.254.130.61/live01/ch3.m3u8?p=st
