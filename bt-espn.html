@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+    <header class="header">
+			<p style="text-align: center;">
+			      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
+      <script src="https://unpkg.com/video.js/dist/video.js"></script>
+      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
+    </head>
+    
+    <body>
+      <video id="btespn" width="560" height="315" class="video-js vjs-fluid vjs-default-skin" controls preload="auto" 
+      data-setup='{}' allowfullscreen="">
+        <source src="https://doofootball.livestream-cdn.com/iptv/uk-espn.stream/chunks.m3u8" type="application/x-mpegURL">
+      </video>
+      </p>
+      
+    <script>
+    var player = videojs('btespn');
+    player.play();
+    </script>
+      
+    </body>
+    </html>
