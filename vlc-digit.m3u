@@ -76,8 +76,13 @@ http://27.254.130.61/live01/ch19.m3u8?p=st
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
 #EXTINF:-1 tvg-id="group-title"="Kids" tvg-logo="https://i.postimg.cc/HnPM1JvX/Boomerang_1.png",Boomerang
 http://27.254.130.61/live01/ch18.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/YSc1SWrx/0352.png", T Sport
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/YSc1SWrx/0352.png", T Sport (สำรอง)
 https://laos-tech-live.b-cdn.net/sd-tsports_480/index.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/NML0DN6r/wanbkudp1zkck40wco.png", True Premier HD 1
 https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/gJ52Tvst/skbu22le65cg4cso0o.png", True Premier HD 2
