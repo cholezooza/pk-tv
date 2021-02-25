@@ -14,9 +14,6 @@ http://27.254.130.61/live01/ch13.m3u8?p=st
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/mkRQtWfG/587p40tflrwg80o88w.png",Thairath HD
 #https://live.thairath.co.th/trtv2/playlist.m3u8
 http://27.254.130.61/live01/ch9.m3u8?p=st
-#EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/mono29.jpg",Mono29
-#https://59ffdfa4495c3.streamlock.net/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
-http://27.254.130.61/live01/ch3.m3u8?p=st
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/nc3vcW36/hddyztjzaps00woww.png",ONE HD
 #https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
 http://27.254.130.61/live01/ch10.m3u8?p=st
