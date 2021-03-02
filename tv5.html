@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>HLS Live Streaming</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+</head>
+
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://www.tv5.co.th/tv5hd1-build91209/img/logo/tv5hd1_logo.png" style="width: 200px; height: auto;">
+    <h1>Live Streaming TV5HD1</h1>
+    <video id="player" class="video-js vjs-default-skin" width="720" controls preload="auto">
+        <source src="http://110.170.117.27:1935/apptv5hd1live/vdo/playlist.m3u8" type="application/x-mpegURL" />
+    </video>
+    <script>
+        var player = videojs('#player');
+    </script>
+    <p>Copyright © www.tv5.co.th 2020 all rights reserved.</p>
+    </center>
+</body>
+
+</html>
