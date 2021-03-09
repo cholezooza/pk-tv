@@ -1,22 +1,24 @@
 <!DOCTYPE html>
-    <header class="header">
-			<p style="text-align: center;">
-			      <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet">
-      <script src="https://unpkg.com/video.js/dist/video.js"></script>
-      <script src="https://unpkg.com/videojs-contrib-hls/dist/videojs-contrib-hls.js"></script>
-    </head>
-    
-    <body>
-      <video id="bt2" width="560" height="315" class="video-js vjs-fluid vjs-default-skin" controls preload="auto" 
-      data-setup='{}' allowfullscreen="">
-        <source src="https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8" type="application/x-mpegURL">
-      </video>
-      </p>
-      
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>BT 2 HD</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+</head>
+
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://streamwink.com/wp-content/uploads/bt-sport-2-300x169.jpg" style="width: 200px; height: auto;">
+    <video id="player" class="video-js vjs-default-skin" width="720" controls preload="auto">
+        <source src="https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r4/btsport2/playlist.m3u8" type="application/x-mpegURL" />
+    </video>
     <script>
-    var player = videojs('bt2');
-    player.play();
+        var player = videojs('#player');
     </script>
-      
-    </body>
-    </html>
+    <p>Copyright © http://junctv.tk 2020 all rights reserved.</p>
+    </center>
+</body>
+
+</html>
