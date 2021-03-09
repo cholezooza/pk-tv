@@ -1,14 +1,24 @@
-<html>
-	<head>
-		<title>Husler HD Streaming</title>
-	</head>
-	<body>
-		<center>
-			<video controls >
-				<source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/15879.m3u8" type="video/mp4">
-				<source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/15879.m3u8" type="video/webm">
-				<p>Your browser doesn't support HTML5 video.</p>
-			</video>
-		</center>
-	</body>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Husler</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+</head>
+
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://i.pinimg.com/originals/19/e5/2e/19e52e15812a5a83923a178f1af5c169.jpg" style="width: 200px; height: auto;">
+    <video id="player" class="video-js vjs-default-skin" width="720" controls preload="auto">
+        <source src="http://tv.iptvstack.net:8080/live/jPvzVSe693/sTspGD310/15879.m3u8" type="application/x-mpegURL" />
+    </video>
+    <script>
+        var player = videojs('#player');
+    </script>
+    <p>Copyright © http://junctv.tk 2020 all rights reserved.</p>
+    </center>
+</body>
+
 </html>
