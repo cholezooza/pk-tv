@@ -1,30 +1,25 @@
-<html>
-<br>
-<p>
-<body bgcolor="black">
-<center>
-<caption><font color="red"><b>CH 3 HD</b> </font></caption>
-</center>
-<br><p>
+<!DOCTYPE html>
+<html lang="en">
 
-<center>
-<!-- Simple video example -->
-<!-- 'Big Buck Bunny' licensed under CC 3.0 by the Blender foundation. Hosted by archive.org -->
-<!-- Poster from peach.blender.org -->
-<video controls
-    src="https://live-cdn.allhilight.com/abr_live/tv3/live/tv3_720p/chunks.m3u8"
-    preload="auto"
-    width="560"
-    height="315"
-    poster="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0003.png">
+<head>
+    <meta charset="UTF-8">
+    <title>CH 3 HD</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+</head>
 
-Sorry, your browser doesn't support embedded videos,
-but don't worry, you can <a href="https://archive.org/details/BigBuckBunny_124">download it</a>
-and watch it with your favorite video player!
-
-</video>
-
-
-</center>
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0003.png" style="width: 100px; height: auto;">
+    <h1>Live Streaming CH 3 HD</h1>
+    <video id="player" class="video-js vjs-default-skin" width="720" controls preload="auto">
+        <source src="https://live-cdn.allhilight.com/abr_live/tv3/live/tv3_720p/chunks.m3u8" type="application/x-mpegURL" />
+    </video>
+    <script>
+        var player = videojs('#player');
+    </script>
+    <p>Copyright © http://junctv.tk 2020 all rights reserved.</p>
+    </center>
 </body>
-</html> 
+
+</html>
