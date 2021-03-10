@@ -1,14 +1,28 @@
-<html>
-	<head>
-		<title>Private NL Streaming</title>
-	</head>
-	<body>
-		<center>
-			<video controls >
-				<source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/21687.m3u8" type="video/mp4">
-				<source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/21687.m3u8" type="video/webm">
-				<p>Your browser doesn't support HTML5 video.</p>
-			</video>
-		</center>
-	</body>
+<DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Husler HD</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+</head>
+
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmY9jkgH2oco8UG3Hmr0-j8EbRmnYpCTEzSw&usqp=CAU" style="width: 200px; height: auto;">
+    <video id="player" class="video-js vjs-default-skin" width="720" controls preload="auto">
+        <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/21687.m3u8" type="application/x-mpegURL" />
+        
+        <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/21687.m3u8" type="video/mp4">
+        
+        <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/21687.m3u8" type="video/webm">
+    </video>
+    <script>
+        var player = videojs('#player');
+    </script>
+    <p>Copyright © http://junctv.tk 2020 all rights reserved.</p>
+    </center>
+</body>
+
 </html>
