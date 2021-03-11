@@ -1,95 +1,130 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/JhZDJYQ7/28c25j72ug4kkgw80c.png",3HD
 http://27.254.130.61/live01/ch16.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/JhZDJYQ7/28c25j72ug4kkgw80c.png",3HD (สำรอง)
-https://laos-tech-live.b-cdn.net/hd-ch3_720/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/3hd_480p/chunks.m3u8
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/dVzZhcrS/d20ejgve15kc8c4k4o.png",5HD
 #http://110.170.117.27:1935/apptv5hd1live/vdo/playlist.m3u8
 http://27.254.130.61/live01/ch6.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/dVzZhcrS/d20ejgve15kc8c4k4o.png",5HD (สำรอง)
-http://110.170.117.27:1935/apptv5hd1live/vdo/playlist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/2tv5_480p/chunks.m3u8
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/L6817Tmv/8f1c32memko40ccso.png",7HD
 http://27.254.130.61/live01/ch1.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/L6817Tmv/8f1c32memko40ccso.png",7HD (สำรอง)
-https://laos-tech-live.b-cdn.net/hd-ch7_720/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/7hd_480p/chunks.m3u8
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/sfcWw8Cv/3emdgxfbf944o8cc00.png",MCOT HD
 #http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
 http://27.254.130.61/live01/ch12.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/sfcWw8Cv/3emdgxfbf944o8cc00.png",MCOT HD (สำรอง)
-https://laos-tech-live.b-cdn.net/hd-mcot_720/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/mcothd_480p/chunks.m3u8
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/x8RLmpnN/jsxmg7mzts00wog4gs.png",Amarin HD
 http://27.254.130.61/live01/ch13.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/mkRQtWfG/587p40tflrwg80o88w.png",Thairath HD
 #https://live.thairath.co.th/trtv2/playlist.m3u8
 http://27.254.130.61/live01/ch9.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/mkRQtWfG/587p40tflrwg80o88w.png",Thairath HD (สำรอง)
-https://live.thairath.co.th/trtv2/playlist.m3u8
+#https://live.thairath.co.th/trtv2/playlist.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tvdigital_thairath_480p/chunks.m3u8
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/nc3vcW36/hddyztjzaps00woww.png",ONE HD
 #https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
 http://27.254.130.61/live01/ch10.m3u8?p=st
+
 #EXTINF:-1,tvg-id="group-title"="DigitalTV" tvg-logo="https://i.postimg.cc/nc3vcW36/hddyztjzaps00woww.png",ONE HD (สำรอง)
 https://one31-rlbwkq.cdn.byteark.com/live/playlist-hd.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/zvSFjXSB/mrg9o4kklpwccsgg0s.png",PPTV HD
 http://27.254.130.61/live01/ch2.m3u8?p=st
+
+#EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/zvSFjXSB/mrg9o4kklpwccsgg0s.png",PPTV HD (สำรอง)
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/pptv_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/HW4wFnXW/1nztjk0bn9voogskog.png",ThaiPBS HD
 #https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 http://27.254.130.61/live01/ch14.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/T1RDTjgd/1zqw3s4d6f5wg88g8s.png", NBT
 #http://live.prd.go.th:1935/live/ch1_L.sdp/playlist.m3u8
 http://27.254.130.61/live01/ch4.m3u8?p=st
+
 #EXTINF:-1, tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/DzH6fNw2/q5nu5rg99hcwgcgcc4.png", NATION TV
 http://27.254.130.61/live01/ch8.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/y8NymKJ1/tnn.png", TNN24
 http://27.254.130.61/live01/ch5.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/VNx9PbKv/1sg0301mhv8kwwgoc.png", TRUE4U
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/VNx9PbKv/1sg0301mhv8kwwgoc.png", TRUE4U (สำรอง)
-https://laos-tech-live.b-cdn.net/sd-24u_480/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/true4u_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/VLgF0vkZ/v7pfr4jtccgw4s4c8g.png", NEW18
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tvdigital_newtv_480p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/Y21RkbKH/upbw6u3iwaskgckkow.png",MONO29
-#https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
 http://27.254.130.61/live01/ch3.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/Y21RkbKH/upbw6u3iwaskgckkow.png",MONO29 (สำรอง)
 https://edge2-bkk.3bb.co.th:9443/MONO29_HLS_1080P/mono29hls_1080TH.stream/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/Y9NFcD4D/y34csex1h3kc4cso8w.png", WORKPOINT
 http://27.254.130.61/live01/ch7.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/Y9NFcD4D/y34csex1h3kc4cso8w.png", WORKPOINT (สำรอง)
-https://laos-tech-live.b-cdn.net/hd-workpoint_480/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/workpointtv_480p/chunks.m3u8
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/9MH9nHfq/faj2lsvhcnc4w04g8g.png",GMM25
 http://27.254.130.61/live01/ch11.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/W30GNbyn/qc0bdez49c0w8ckcw.png",CH8
-#https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
 http://27.254.130.61/live01/ch15.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/W30GNbyn/qc0bdez49c0w8ckcw.png",CH8 (สำรอง)
 https://prsmedia-mykojh.cdn.byteark.com/fleetstream/live/720p/index.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://i.postimg.cc/fRgx4TkW/topnews.png",TOP NEWS
 https://live.topnews.co.th/hls/topnews.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Digital TV" tvg-logo="https://www.altv.tv/_nuxt/img/84f4d59.png",ALTV
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Documentary" tvg-logo="https://i.postimg.cc/28nZc7Nw/psi.jpg",PSI สาระดี
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Entertainment" tvg-logo="https://i.imgur.com/wNdpnUj.png" ,M Channel
 #http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
 http://27.254.130.61/live01/ch19.m3u8?p=st
+
 #EXTINF:-1 tvg-id="group-title"="Kids" tvg-logo="https://i.postimg.cc/yY6L33sY/cartoonckub.png",Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/media_w255702590.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Kids" tvg-logo="https://i.postimg.cc/HnPM1JvX/Boomerang_1.png",Boomerang
 http://27.254.130.61/live01/ch18.m3u8?p=st
 
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/YSc1SWrx/0352.png", T Sport
 https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r2/tsports_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/YSc1SWrx/0352.png", T Sport (สำรอง)
-https://laos-tech-live.b-cdn.net/sd-tsports_480/index.m3u8
-
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/NML0DN6r/wanbkudp1zkck40wco.png", True Premier HD 1
-https://laos-tech-live.b-cdn.net/epl-x1_720/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl1_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/gJ52Tvst/skbu22le65cg4cso0o.png", True Premier HD 2
-https://laos-tech-live.b-cdn.net/epl-x2_720/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl2_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/sxhgdv0j/7uhyxk0jfvgg004cw.png", True Premier HD 3
-https://laos-tech-live.b-cdn.net/epl-x3_720/index.m3u8
+https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r1/trueepl3_480p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/pyMX2RgD/1l28zfbfxx8gsc4kg0.png", True Premier HD 4
-https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
+#https://laos-tech-live.b-cdn.net/epl-x4_720/index.m3u8
+
 #EXTINF:-1 tvg-id="group-title"="Sport" tvg-logo="https://i.postimg.cc/7Pf9c0w3/ieq69carr0g0wkwss0.png", True Premier HD 5
-https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
+#https://laos-tech-live.b-cdn.net/epl-x5_720/index.m3u8
