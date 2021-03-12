@@ -1,0 +1,40 @@
+<DOCTYPE html>
+<html>
+    <head>
+        <title>BEIN X-TRA</title>
+    </head>
+    <body>
+    <center>
+        <video id="myVideo" width="640" hight="360" controls preload="auto">
+            <source src="hthttp://bazarhd.online:80/live/307210113622/307210113622/78627.m3u8" type="video/mp4">
+            <source src="http://bazarhd.online:80/live/307210113622/307210113622/78627.m3u8" type="application/x-mpegURL" >
+        </video>
+    </center>
+        <button id="playButton">Play/Pause</button>
+        <script type="text/javascript">
+            var myVideo = document.getElementById('myVideo');
+            var playButton = document.getElementById('playButton');
+
+            playButton.addEventListener('click', function () {
+                if (myVideo.paused) {
+                    if (myVideo.requestFullscreen) {
+                        myVideo.requestFullscreen();
+                    }
+                    else if (myVideo.msRequestFullscreen) {
+                        myVideo.msRequestFullscreen();
+                    }
+                    else if (myVideo.mozRequestFullScreen) {
+                        myVideo.mozRequestFullScreen();
+                    }
+                    else if (myVideo.webkitRequestFullScreen) {
+                        myVideo.webkitRequestFullScreen();
+                    }
+                    myVideo.play();
+                }
+                else {
+                    myVideo.pause();
+                }
+            }, false);
+            </script>
+    </body>
+</html>
