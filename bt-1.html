@@ -1,48 +1,23 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
+    <meta charset="UTF-8">
+    <title>BT-2</title>
+    <link href="https://vjs.zencdn.net/7.5.5/video-js.css" rel="stylesheet">
+    <script src="https://vjs.zencdn.net/7.5.5/video.js"></script>
+</head>
 
-<title>BT-1</title>
-  
-  <!--
-  Uses the latest versions of video.js and videojs-contrib-hls.
-  To use specific versions, please change the URLs to the form:
-  <link href="https://vjs.zencdn2.net/5.16.0/video-js.css" rel="stylesheet">
-  <script src="https://vjs.zencdn2.net/5.16.0/video.js"></script>
-  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-  -->
-
-  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet"></link>
-  <script src="https://unpkg.com/video.js/dist/video.js"></script>
-  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
-  
-<head>
-
-
-<div style="position: fixed;   top: 0px; width: 560px; height: 315px"><center>
-<video id="my-video" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
-  width="640" height="360" poster="https://i.postimg.cc/4yDWKwxC/japanhdv.jpg" data-setup="{}">
-    <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/38045.19991" type='application/x-mpegURL'>
-    <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/38045.1991" type='application/x-mpegURL'>
-    <p class="vjs-no-js">
-      To view this video please enable JavaScript, and consider upgrading to a web browser that
-      <li  data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
-    </p>
-  </video>
- </div>
+<body style="background-image: url('img/bg.jpg'); background-size: cover;  ">
+    <center>
+        <img src="https://streamwink.com/wp-content/uploads/bt-sport-2-300x169.jpg" style="width: 120px; height: 150;">
+    <video id="player" class="video-js vjs-default-skin" width="100%" controls preload="auto">
+        <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/1991.m3u8" type="application/x-mpegURL" />
+    </video>
+    <script>
+        var player = videojs('#player');
+    </script>
+    </center>
 </body>
-</html>
-    <ul id="playlist">
 
-  <script>
-  $(function(){
-$("#playlist li").on("click", function() {
-var player = videojs('my-video');
-player.pause();
-var new_url = $(this).attr("data-url");
-player.src(new_url);
-// set src track corresponding to new movie //
-player.load();
-player.play();
-});
-});</script>
-© 2021 GitHub, Inc.
+</html>
