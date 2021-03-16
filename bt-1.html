@@ -1,1 +1,48 @@
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fcached.imagescaler.hbpl.co.uk%2Fresize%2FscaleWidth%2F743%2Fcached.offlinehbpl.hbpl.co.uk%2Fnews%2FOMC%2Fbt1-20190517114743485.jpg&imgrefurl=https%3A%2F%2Fwww.campaignlive.co.uk%2Farticle%2Fbt-mocked-generic-brand-logo%2F1584953&tbnid=kD6-57pVprozNM&vet=12ahUKEwiL7eLg37PvAhXCTXwKHWHDB2MQMygAegUIARCfAQ..i&docid=OlzBUB1U2UA-GM&w=743&h=496&q=bt1%20logo&ved=2ahUKEwiL7eLg37PvAhXCTXwKHWHDB2MQMygAegUIARCfAQ
+<html>
+<head>
+
+<title>BT-1</title>
+  
+  <!--
+  Uses the latest versions of video.js and videojs-contrib-hls.
+  To use specific versions, please change the URLs to the form:
+  <link href="https://vjs.zencdn2.net/5.16.0/video-js.css" rel="stylesheet">
+  <script src="https://vjs.zencdn2.net/5.16.0/video.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  -->
+
+  <link href="https://unpkg.com/video.js/dist/video-js.css" rel="stylesheet"></link>
+  <script src="https://unpkg.com/video.js/dist/video.js"></script>
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  
+<head>
+
+
+<div style="position: fixed;   top: 0px; width: 560px; height: 315px"><center>
+<video id="my-video" class="video-js vjs-default-skin vjs-fluid" controls preload="none"
+  width="640" height="360" poster="https://i.postimg.cc/4yDWKwxC/japanhdv.jpg" data-setup="{}">
+    <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/38045.19991" type='application/x-mpegURL'>
+    <source src="http://tv.iptvstack.net/live/jPvzVSe693/sTspGD310/38045.1991" type='application/x-mpegURL'>
+    <p class="vjs-no-js">
+      To view this video please enable JavaScript, and consider upgrading to a web browser that
+      <li  data-url=="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+    </p>
+  </video>
+ </div>
+</body>
+</html>
+    <ul id="playlist">
+
+  <script>
+  $(function(){
+$("#playlist li").on("click", function() {
+var player = videojs('my-video');
+player.pause();
+var new_url = $(this).attr("data-url");
+player.src(new_url);
+// set src track corresponding to new movie //
+player.load();
+player.play();
+});
+});</script>
+© 2021 GitHub, Inc.
