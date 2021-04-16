@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:-1,ร้องข้ามกำแพง
+http://mayked.tk/wp-wall
+
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/JhZDJYQ7/28c25j72ug4kkgw80c.png",3HD
 http://27.254.130.61/live01/ch16.m3u8?p=st
 
