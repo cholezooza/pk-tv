@@ -50,9 +50,6 @@ http://27.254.130.61/live01/ch14.m3u8?p=m3u8
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/T1RDTjgd/1zqw3s4d6f5wg88g8s.png",NBT
 http://27.254.130.61/live01/ch4.m3u8?p=m3u8
 
-#EXTINF:-1, group-title="Digital TV" tvg-logo="https://i.postimg.cc/DzH6fNw2/q5nu5rg99hcwgcgcc4.png",NATION TV
-http://27.254.130.61/live01/ch8.m3u8?p=m3u8
-
 #EXTINF:-1 group-title="Digital TV" tvg-logo="https://i.postimg.cc/y8NymKJ1/tnn.png",TNN24
 http://27.254.130.61/live01/ch5.m3u8?p=m3u8
 
